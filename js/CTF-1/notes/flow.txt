@@ -1,0 +1,181 @@
+flow:
+
+====================
+-> fetches input
+-> fetches result element
+
+-> calls FUw6a8 = F8Hpn4q["HJPAIDu"](wSXUngr),
+-> ["HJPAID" + "u"](...F8Hpn4q)
+-> calls BGRyFAO(...F8Hpn4q);
+-> clals AduI5S("644uKe", "p8X4pp" + "Lmpl", "0yUQZK" + "xrwm")["Pz40gGmx6E"]);
+
+====================
+// this shi really just inverts the input string
+-> calls F8Hpn4q[231]["EqI7ri"](F8Hpn4q[-166]) &&  F8Hpn4q[231]["EqI7ri"](F8Hpn4q[-166]["split"]("")["revers" + "e"]()["join"](""))
+    > DNXA89N(...qDsLhzT);
+        > ["MVV5dM"]
+    > DNXA89N(...qDsLhzT);
+        > ["MVV5dM"]
+returns if the input was a pandlrome or not
+
+====================
+-> calls _bMh7Ei = F8Hpn4q["IxhU8v" + "r"]["encryp" + "t"](wSXUngr);
+-> calls encrypt func return qUzPD5(qDsLhzT, nIHBL5z); | takes your input
+-> returns a reversed input string and base64's it
+
+====================
+-> calls await F8Hpn4q["L4li9r"](wSXUngr);
+-> takes in user input as the input (wSXUngr)
+-> calls ["L4li9r"](...F8Hpn4q)   return y8ZpNC(...F8Hpn4q);
+-> calls w4IoDo = [qDsLhzT, nIHBL5z], AduI5S("rtM2q4");
+
+====================
+goes down to const WsXungr
+    const wSXUngr = F8Hpn4q[1]["WuRzDO"](F8Hpn4q[-177]["slice"](4, 12)) ^ F8Hpn4q[1]["WuRzDO"](F8Hpn4q[-177]["slice"](-8)),
+        "WuRzDO" resolves to  NKGUCiV(...qDsLhzT);
+        > calls AduI5S("YPM3M0") with user input
+
+    > inside of YPM3M0
+    > computes checksum based on userinput and returns input
+2nd part is executed, which creates an iv
+code:
+    console.log("(F8Hpn4q) #1 executed (EXkkYjk['length'] = 2)");
+                        EXkkYjk["length"] = 2;
+
+                        if ("N8WY67" in T1BYp4E) {
+                          uiuIdT.ww6YSig = uiuIdT.J7EGfo;
+                          FUw6a8 += 0xe3;
+                          Aul8Do += -0x2;
+                          _bMh7Ei += -0x185;
+
+                          break;
+                        } else {
+                          uiuIdT.ww6YSig = uiuIdT.J7EGfo;
+                          FUw6a8 += 0xe3;
+                          Aul8Do += 0x65;
+                          _bMh7Ei += -0x11b;
+
+                          break;
+                        }
+        var val = wSXUngr >> EXkkYjk[1] % 4 * 8 & 255;
+                        console.log(`(F8Hpn4q) #6 executed (returning ${val})`);
+                        return (d2BtbZc = !0x0, val);
+
+it goes down into the decryption function but errors out
+based on the inputs? it seems like the iv is based on the user input we are going to ignore this for now
+
+===================
+const { 
+    ["len"]: uiuIdT, 
+    ["result"]: V5zV0H 
+} = F8Hpn4q["i8CNZN"](F8Hpn4q["UqAV0J"]["flag"]);
+-> calls ["i8CNZN"](...F8Hpn4q) {
+-> return oFrndZ(...F8Hpn4q);
+-> calls AuI5S("IfWF1O")
+-> loops over the length of JS_CHALLENGE{b10bf15hb10bf15hb10bf15hb10bf15h}
+-> xors letters with 3735928559 then String.fromCharCode
+-> returns result 
+
+===================
+calls if (F8Hpn4q["wI8z4y" + "G"](wSXUngr) === 0) {
+calls -> ["wI8z4y" + "G"](...F8Hpn4q) {
+        return DNXA89N(...F8Hpn4q);
+      },
+calls ->  var val = (w4IoDo = [qDsLhzT, nIHBL5z], AduI5S("MVV5dM"));
+^ input is the textobox input
+"MVV5dM" is a one way hash
+        // one way hashing
+        [[F8Hpn4q["a"]], F8Hpn4q[-113]] = w4IoDo;
+        console.log(`(MVV5dM) `, w4IoDo, F8Hpn4q["a"]);
+        return Array["from"](F8Hpn4q["a"])["reduce"](
+            IlIvL5((...F8Hpn4q) => {
+                F8Hpn4q["length"] = 2;
+                return ((F8Hpn4q[0] << 5) - F8Hpn4q[0] + F8Hpn4q[1]["charCodeAt"](0));
+            }, 2),
+            3735928559
+        );
+
+        
+=================
+GyNCVAz = F8Hpn4q["LWocXD"](F8Hpn4q["gAQYxI"], wSXUngr);
+calls "LWocXD"](...F8Hpn4q) {
+        return xBMXxfY(...F8Hpn4q);
+      }
+calls function xBMXxfY(...qDsLhzT) {
+calls "TjAs5e"
+calls  var result = LJyFtev["cJskyP6"](ukTq3pZ(dZjY6_(F8Hpn4q)));
+
+calls   function dZjY6_(...qDsLhzT) {
+    var nIHBL5z = {
+      get ["ZWEV8C"]() {
+        return EhMEzuN;
+      }
+    };
+    return (
+      w4IoDo = [qDsLhzT, nIHBL5z],
+      new AduI5S("3Ked2Q", "p8X4ppLmpl", "0yUQZK" + "xrwm")[
+      "Pz40gG" + "mx6E"]);
+
+the flow for dZjY6_:
+    nIHBL5z = user input
+    buffer = []
+    push to buffer (1 << 3 | 2)
+    var vEsHKIM = new TextEncoder()["encode"](nIHBL5z);
+    push length of vEsHKIM to buffer
+    push to buffer (...vEsHKIM)
+    var bytes = return new Uint8Array(this["buffer"]);
+    base64 = btoa(String.fromCharCode.apply(
+        null,
+        bytes
+    ));
+    return base64;
+
+the flow for ukTq3pZ:
+    var mappings = {
+        "0": "Y",
+        "1": "N"
+    }
+    d2BtbZc = output from dZjY6_ (must be from there)
+    const wSXUngr = new TextEncoder().encode(d2BtbZc)
+    Array.from(wSXUngr)["map"](
+        (F8Hpn4q) => {
+            s3oKnc = F8Hpn4q['toString'](2)["padStart"](8, "0");
+            s3oKnc["split"]("")["map"](
+                (d2BtbZc) => {
+                    return mappings[d2BtbZc]
+                }
+            )['join']("");
+        }
+    );
+
+the flow for LJyFtev["cJskyP6"]:
+    LJyFtev["E_fyeby"] = output from ukTq3pZ with spaces stripped
+    for (let FUw6a8 = 0; FUw6a8 < LJyFtev["E_fyeby"]["length"]; FUw6a8 += 4) {
+        // fetch a length of 4 from it
+        let _bMh7Ei = LJyFtev["E_fyeby"]["slice"](FUw6a8, FUw6a8 + 4), 
+        aATyI4 = 0;
+        
+        // loop over string
+        for (let w4IoDo = 0; w4IoDo < 4; w4IoDo++) {
+            // _bMh7Ei[w4IoDo] this is the letter
+            // R9pjeK[d2BtbZc + 0x29b] this is "Y"
+            aATyI4 = aATyI4 * 2 + (_bMh7Ei[w4IoDo] === R9pjeK[d2BtbZc + 0x29b] ? 1 : 0);
+        };
+        console.log(`(cJskyP6) Before Processed: ${aATyI4}, Processed ${aATyI4['toString'](16)}`);
+    }
+    print out the end pls
+
+console.log(`hy9DXR3 value: ${result}, regex: ${result["match"](new RegExp(".{1,2}", "g"))}`); // logs the processed value
+    var val = result["match"](new RegExp(".{1,2}", "g"))["map"]((F8Hpn4q) => {
+        console.log(`hy9DXR3 Mapping: ${F8Hpn4q}, ${parseInt(F8Hpn4q, 16)}`); // logs each matched value
+      return parseInt(F8Hpn4q, 16);
+    })["map"](
+      IlIvL5((...F8Hpn4q) => {
+        F8Hpn4q["length"] = 1;
+        console.log(`hy9DXR3 Processing: ${String.fromCharCode(F8Hpn4q[0])}, ${F8Hpn4q[0]}`); // logs each processed value
+        return String["fromCharCode"](F8Hpn4q[0]);
+      })
+    )["join"]("");
+    console.log(`hy9DXR3 generated value: ${val}`); // logs the final generated value
+    return val;
+  };
